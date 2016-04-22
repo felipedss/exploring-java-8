@@ -1,0 +1,1 @@
+Projeto simples com o objetivo de introduzir alguns conceitos do java 8
